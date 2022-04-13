@@ -13,6 +13,7 @@ public class Main {
                 "ka", "ka", "chka", 4.6f));
 
         System.out.println(hilton);
+        System.out.println("Hello");
 
     }
 }
